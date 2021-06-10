@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+### Feature of This App
+--Basic Desent Design 
+--Full responsive App 
+--run on Android /ios/FLutter Web
+--Quotes app using api    >>> https://type.fit/api/quotes
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
